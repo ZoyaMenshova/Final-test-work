@@ -37,7 +37,7 @@ Console.WriteLine($"Count positive numbers array is {result}");
 
 // Задача 2. Напишите программу, которая найдёт точку пересечения двух прямых, 
 //заданных уравнениями y = k1 * x + b1, y = k2 * x + b2; значения b1, k1, b2 и k2 задаются пользователем.
-
+/*
 void PointIntersec(double a, double b, double c, double d)
 {
 
@@ -59,3 +59,4 @@ if(b==b1)
 Console.WriteLine($"The lines are parallel");
 else
 PointIntersec(b,k,b1,k1);
+*/
