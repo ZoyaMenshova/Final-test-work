@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\SeminarsC#\HomeWorks\Work7\obj\Debug\net6.0\Work7.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SeminarsC#\HomeWorks\Work7\obj\Debug\net6.0\Work7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SeminarsC#\HomeWorks\Work7\obj\Debug\net6.0\Work7.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SeminarsC#\HomeWorks\Work7\obj\Debug\net6.0\Work7.AssemblyInfo.cs
+C:\Users\User\Desktop\SeminarsC#\HomeWorks\Work7\obj\Debug\net6.0\Work7.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SeminarsC#\HomeWorks\Work7\bin\Debug\net6.0\Work7.exe
+C:\Users\User\Desktop\SeminarsC#\HomeWorks\Work7\bin\Debug\net6.0\Work7.deps.json
+C:\Users\User\Desktop\SeminarsC#\HomeWorks\Work7\bin\Debug\net6.0\Work7.runtimeconfig.json
+C:\Users\User\Desktop\SeminarsC#\HomeWorks\Work7\bin\Debug\net6.0\Work7.dll
+C:\Users\User\Desktop\SeminarsC#\HomeWorks\Work7\bin\Debug\net6.0\Work7.pdb
+C:\Users\User\Desktop\SeminarsC#\HomeWorks\Work7\obj\Debug\net6.0\Work7.dll
+C:\Users\User\Desktop\SeminarsC#\HomeWorks\Work7\obj\Debug\net6.0\refint\Work7.dll
+C:\Users\User\Desktop\SeminarsC#\HomeWorks\Work7\obj\Debug\net6.0\Work7.pdb
+C:\Users\User\Desktop\SeminarsC#\HomeWorks\Work7\obj\Debug\net6.0\Work7.genruntimeconfig.cache
+C:\Users\User\Desktop\SeminarsC#\HomeWorks\Work7\obj\Debug\net6.0\ref\Work7.dll
